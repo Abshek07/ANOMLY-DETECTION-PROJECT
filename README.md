@@ -6,9 +6,9 @@ This project trains an anomaly detection pipeline on building energy data and ex
 
 ### 1. Prerequisites
 
-- **Python**: 3.9 or higher
+- **Python**: 3.9 or higher  
 - **OS**: Tested on Windows 10
-
+    
 ### 2. Create and activate a virtual environment (recommended)
 
 In a terminal from the `major` folder:
