@@ -63,7 +63,7 @@ def load_data(path: str) -> pd.DataFrame:
 # ── CHANGE THIS PATH ──────────────────────────────────────────────────────────
 # Option A – point to your extracted BDG2 directory:
 #   DATA_PATH = "building-data-genome-project-2/data/meters/raw/"
-# Option B – point to your single pre-processed CSV:
+# Option B – point to your Single pre-processed CSV:
 #   DATA_PATH = "your_file.csv"
 # ─────────────────────────────────────────────────────────────────────────────
 DATA_PATH = "feature_engineered_dataset.csv"   # <── UPDATE THIS
