@@ -13,7 +13,7 @@ This project trains an anomaly detection pipeline on building energy data and ex
 
 In a terminal from the `major` folder:
 
-```bash
+```bash  
 python -m venv .venv
 .venv\Scripts\activate
 ```
